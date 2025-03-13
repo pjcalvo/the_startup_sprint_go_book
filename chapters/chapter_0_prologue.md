@@ -1,5 +1,3 @@
-# Bienvenido a ChatGPT Meets Go: Construyendo tu Primera API. 
-
 Este libro es una guía práctica para llevarte de cero a una API funcional usando Go, un lenguaje que ha capturado la atención de desarrolladores en todo el mundo. Go (o Golang) fue creado en 2009 por Google para resolver problemas reales: es simple, rápido y diseñado para la era moderna de la computación distribuida. Aquí explorarás cómo construir una API que se conecta con ChatGPT, desde los fundamentos hasta el despliegue, todo mientras descubres por qué Go se ha convertido en una herramienta tan poderosa.
 
 ### ¿Por qué Go se ha vuelto tan popular?
